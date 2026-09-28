@@ -27,5 +27,3 @@ No deep-learning model is trained.
 - Pillow
 - Haar Cascade
 
-## Project Structure
-
